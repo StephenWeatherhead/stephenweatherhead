@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hello! 👋
+Hello! My name is Stephen Weatherhead. I am a software developer working with .NET technologies. I also organise the meetup groups [Lothian Social](https://lothiansocial.com/) and [Edinburgh Book Club](https://edinburghbookclub.com/). You can find me here:
+- Email: stephen@sw3.dev
+- [GitHub](https://github.com/StephenWeatherhead)
+- [LinkedIn](https://www.linkedin.com/in/stephen-weatherhead-a09071263/)
+- [StackOverflow](https://stackoverflow.com/users/21055906/stephen-weatherhead)
+- [YouTube](https://www.youtube.com/@sw3dev)
 <!--
 **StephenWeatherhead/stephenweatherhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
